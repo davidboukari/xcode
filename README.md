@@ -7,3 +7,7 @@
 ## Check the swift version
 * https://stackoverflow.com/questions/30790188/how-do-i-see-which-version-of-swift-im-using
 * project name -> building settings -> swift compiler language
+
+
+## TableViewMacOSX
+https://medium.com/@kicsipixel/simple-nstableview-using-model-in-swift-5-7db0685f2615
