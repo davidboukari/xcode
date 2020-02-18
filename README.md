@@ -10,4 +10,8 @@
 
 
 ## TableViewMacOSX
-https://medium.com/@kicsipixel/simple-nstableview-using-model-in-swift-5-7db0685f2615
+* https://medium.com/@kicsipixel/simple-nstableview-using-model-in-swift-5-7db0685f2615
+
+
+## Exec external cmd
+* https://scriptingosx.com/2016/04/build-an-application-to-run-a-shell-command-in-xcode-and-swift-part-1/
